@@ -1,0 +1,5 @@
+package com.DeliveryBoy.config;
+
+public class KafkaConfig {
+
+}

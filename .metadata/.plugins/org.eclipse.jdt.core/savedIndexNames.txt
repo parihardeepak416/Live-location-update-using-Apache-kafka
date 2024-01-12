@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\hp\Desktop\Live Location Update Apache Kafka\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2618195332.index
+590445298.index

@@ -1,0 +1,5 @@
+package com.DeliveryBoy.service;
+
+public class KafkaService {
+
+}

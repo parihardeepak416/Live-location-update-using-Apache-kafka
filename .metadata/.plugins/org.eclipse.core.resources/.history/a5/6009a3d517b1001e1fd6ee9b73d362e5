@@ -1,0 +1,6 @@
+package com.DeliveryBoy.constant;
+
+public class AppConstant {
+
+	private static String location_update="Location_update_topic";
+}
